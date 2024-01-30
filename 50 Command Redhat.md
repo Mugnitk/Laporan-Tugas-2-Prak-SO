@@ -55,20 +55,48 @@
 19. history - perintah yang pernah Anda gunakan sebelumnya
 ![2024-01-30_12-37](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/4ebf9f95-982a-4782-8313-c1a956aa84ee)
 
-20. 
+20. sudo yum update - Menyinkronkan dan memperbarui daftar paket di sistem
+![Screenshot 2024-01-30 132218](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/52d37106-0477-4f67-92ed-3b1599572d40)
 
+21. ps aux - Menampilkan daftar proses yang sedang berjalan
+![Screenshot 2024-01-30 131920](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/0f71a3fb-4390-47ac-8c7e-2bbe293c40de)
 
+22. free - Menampilkan statistik penggunaan memori
+![Screenshot 2024-01-30 131229](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/44a535b0-0ca5-48da-bdaa-5b1a986b1f15)
 
+23. who - Menampilkan informasi pengguna yang sedang login
+![Screenshot 2024-01-30 131101](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/b1e37ef7-65a8-4551-be8e-a2f41b756e1c)
 
+24. date - Menampilkan tanggal dan waktu saat ini
+![2024-01-30_13-08](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/71ac069e-f107-45d1-9777-860e9738ab43)
 
+25. hostname - Menampilkan nama host sistem
+![2024-01-30_13-07](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/a074a7eb-bd80-409d-a96f-7c2d86aeb4a6)
 
+26. netstat - Menampilkan informasi jaringan dan koneksi
+![2024-01-30_12-58](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/081a23c3-7ea9-45b6-a5b6-ec4f1a94bf85)
 
+27. journalctl - Menampilkan log sistem
+![2024-01-30_12-56](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/0097b967-4521-4a65-8a4b-c8716d935dcc)
 
+28. whomai - menampilkan nama pengguna saat ini yang sedang login ke sistem
+![2024-01-30_12-31](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/9c30284e-0479-4234-b7ab-cfc361f8ade2)
 
+29. scp - Menyalin file melalui SSH
+![2024-01-30_12-28](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/3f2285ea-2bf5-4215-bc57-d14996737a51)
 
+30. ifconfig - Menampilkan atau mengkonfigurasi antarmuka jaringan
+![2024-01-30_12-27](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/eead77ca-77d8-4a8a-882a-10f8fe52b20f)
 
+31. mengekstrak file dari arsip ZIP di sistem operasi berbasis Unix/Linux
+![2024-01-30_12-26](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/ccf739e9-bdc6-4216-9258-b45fd63971a0)
 
+32. pwd - Menampilkan Direktori Kerja Saat Ini
+![Screenshot 2024-01-30 144323](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/e0225b41-bb8b-4927-9678-efdc9c1065b7)
 
+33. ls - Menampilkan Daftar File dan Direktori
+![Screenshot 2024-01-30 144523](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/aed65bb8-50d6-4481-9d35-509113dd9420)
 
+34. 
 
 
