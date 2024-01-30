@@ -52,6 +52,11 @@
 18. zip - File zip di Linux
 ![2024-01-29_17-45](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/28c8a566-d3e5-472e-9337-3d63497b4126)
 
+19. history - perintah yang pernah Anda gunakan sebelumnya
+![2024-01-30_12-37](https://github.com/Mugnitk/Laporan-Tugas-2-Prak-SO/assets/126656674/4ebf9f95-982a-4782-8313-c1a956aa84ee)
+
+20. 
+
 
 
 
